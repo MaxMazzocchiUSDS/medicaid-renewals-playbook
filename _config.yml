@@ -8,3 +8,4 @@ defaults:
 collections:
   how_to_run_a_state_engagement:
     title: How to run a state engagement
+    output: true
