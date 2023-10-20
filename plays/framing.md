@@ -1,3 +1,9 @@
+---
+title: Framing
+collection: how_to_run_an_engagement
+description: Some advice on how to frame the work both internally and externally
+---
+
 # Advice on Framing
 
 <div align="center">

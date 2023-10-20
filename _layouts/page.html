@@ -5,10 +5,14 @@ layout: default
 <div class="playbook-container">
   <nav>
     <ul>
-    {% for page in site.pages %}
-      <li>
-        <a href="{{ page.url }}">{{ page.title }}</a>
-      </li>
+    {% for collection in site.collections %}
+      <h4>{{ collection.title }}</h4>
+
+      {% for page in collection.docs %}
+        <li>
+          <a href="{{ page.url }}">{{ page.title }}</a>
+        </li>
+      {% endfor %}
     {% endfor %}
     </ul>
   </nav>
