@@ -4,3 +4,10 @@
 @import "{{ site.theme }}";
 
 // DO NOT DELETE THE ABOVE LINES
+
+.playbook-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
