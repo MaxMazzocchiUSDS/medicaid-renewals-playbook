@@ -1,3 +1,9 @@
+---
+title: Logistics
+description: The details; who should be on the team, what the schedule should look like, which meetings to run, and how to run them
+collection: how_to_run_a_state_engagement
+---
+
 # Logistics
 
 These pages deal with **how to run a USDS-style state engagement**, including what type of skills we bring and how we operate day-to-day. Consider this a reference for how to plan and execute, but adapt and modify to your team's needs!
