@@ -5,9 +5,21 @@
 
 // DO NOT DELETE THE ABOVE LINES
 
+.container-lg {
+  max-width: 1512;
+}
+
 .playbook-container {
   display: flex;
   flex-direction: row;
-  align-items: center;
-  justify-content: flex-start;
+  align-items: flex-start;
+  justify-content: center;
+
+  > nav {
+    padding-right: 10px;
+
+    > ul {
+      list-style: none;
+    }
+  }
 }
