@@ -6,13 +6,15 @@ layout: default
   <nav>
     <ul>
     {% for collection in site.collections %}
-      <h4>{{ collection.title }}</h4>
+      {% if collection.title != "" %}
+        <h4>{{ collection.title }}</h4>
 
-      {% for page in collection.docs %}
-        <li>
-          <a href="{{ page.url }}">{{ page.title }}</a>
-        </li>
-      {% endfor %}
+        {% for page in collection.docs %}
+          <li>
+            <a href="{{ page.url }}">{{ page.title }}</a>
+          </li>
+        {% endfor %}
+      {% endif %}
     {% endfor %}
     </ul>
   </nav>
