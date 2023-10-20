@@ -5,17 +5,12 @@ layout: default
 <div class="playbook-container">
   <nav>
     <ul>
-    {% for collection in site.collections %}
-      {% if collection.title != "" %}
-        <h4>{{ collection.title }}</h4>
-
-        {% for page in collection.docs %}
-          <li>
-            <a href="{{ page.url }}">{{ page.title }}</a>
-          </li>
-        {% endfor %}
-      {% endif %}
-    {% endfor %}
+      <h4>How to run a state engagement</h4>
+      {% for page in site.categories.how_to_run_a_state_engagement %}
+        <li>
+          <a href="{{ page.url }}">{{ page.title }}</a>
+        </li>
+      {% endfor %}
     </ul>
   </nav>
   <div class="content-container">
