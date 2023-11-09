@@ -6,7 +6,7 @@
     src="./images/usds-logo.svg"
     alt="The US Digital Service shield logo" />
   
-  <h1>[DRAFT] U.S. Digital Service - Medicaid Renewals Playbook</h1>
+  <h1>U.S. Digital Service - Medicaid Renewals Playbook</h1>
 </div>
 
 ## Background
@@ -25,8 +25,18 @@ Please contribute to this repository with your questions or additions. To do so,
   - [Logistics](./logistics): The details; who should be on the team, what the schedule should look like, which meetings to run, and how to run them
 
 ### Common challenges:
-  - [**Ex parte renewal challenges**](./ex-parte-renewals)
-  - [**Manual renewal challenges**](./manual-renewals)
-      - [Outreach and messaging](/manual-renewals/outreach-and-messaging.md)
-      - [Completing a renewal](/manual-renewals/completing-a-renewal.md)
-      - [Getting help and troubleshooting](/manual-renewals/getting-help.md)
+
+| Ex-parte renewal challenges   | Manual renewal challenges | 
+| :-------- | :---------- |
+|[**Overview**](./ex-parte-renewals/README.md)                    | [**Overview**](./manual-renewals/README.md) |
+|[Income data hierarchy challenges](./ex-parte-renewals/income-data-hierarchy.md)    | [Outreach and messaging](/manual-renewals/outreach-and-messaging.md) |
+|[Individualized eligibility](./ex-parte-renewals/individual-vs-household.md)        | [Completing a renewal](/manual-renewals/completing-a-renewal.md) |
+|[Social security number challenges](./ex-parte-renewals/social-security-numbers.md)  | [Getting help and troubleshooting](/manual-renewals/getting-help.md) |
+|[Unnecessary reverifications](./ex-parte-renewals/unnecessary-reverifications.md)
+| [Wage matching challenges](./ex-parte-renewals/wage-matching.md)
+| [Policy rules](./ex-parte-renewals/policy-rules.md)
+| [Caretaker relative challenges](./ex-parte-renewals/caretaker-relative.md)
+| [Waiver implementation challenges](./ex-parte-renewals/waiver-implementations.md)
+| [Consent requirements](./ex-parte-renewals/consent.md)
+| [Worst case scenario challenges](./ex-parte-renewals/worst-case-scenario.md)
+

@@ -57,14 +57,35 @@ Many states support multiple languages, and translations of notices can also be 
 The timing of notices can also be a challenge. Given inconsistencies in mail delivery timelines, multiple notices can sometimes arrive out of order, creating confusion. If states are sending texts/emails in addition to mail, the mail may arrive after the member has already taken action.
 
 ### Plays:
-Use quantitative and qualitative research to understand if this is a challenge in the state you're working with and measure the baseline.
+#### Use quantitative and qualitative research to understand if this is a challenge in the state you're working with and measure the baseline.
 * Quantitative data: mail bounce/return rates, undeliverable rates for text messages, open rates for texts or emails
 * Qualitative data: Navigators report that their clients are often throwing away their mail, and the first time people realize they have lost their coverage is when they try to use it (e.g. to fill a prescription) and get denied.
 
-### Potential solutions
+#### Design envelopes to make them stand out amongst other mail and make it clear that action is needed
+Printing text on the outside of the envelope in key languages is a low-lift intervention that helps make it clear to members what the contents are and why it's important to open it. Using a unique color or design can also be effective when paired with strategic advertising so members recognize the envelope before it arrives.
 
-* Redesigning envelopes to make them stand out amongst other mail and make it clear that action is needed
-* Ad campaigns encouraging people to update their contact information. Ads should be placed in places where Medicaid participants are most likely to see them, such as TV, Radio, bus ads, doctor's offices, and pharmacies. Navigator's should be leveraged to spread the word in their communities.
-* Working with the National Change of Address (NCOA) database or MCOs to update recipient's addresses
-* Utilizing web-based messaging services like WhatsApp for outreach—participants who run out of minutes may still connect to wifi
+<div class="row">
+  <div class="column">
+    <p>Example: New York renewal notice envelope redesign</p>
+    <img
+      width="750px"
+      src="../images/NY-Envelope-Mockup-beforeafter-small.jpg"
+      alt="Colorado's Signature Page, on Page 4 of their renewal packet" />
+    <p>Full size image available <a href="../images/NY-Envelope-Mockup-beforeafter-fullsize.jpg">here</a></p>
+  </div>
+  <div class="column">
+    <p>Example: Hawaii's pink evelope campaign</p>
+    <img
+      width="750px"
+      src="../images/hawaii_quest_pink_envelope.jpeg"
+      alt="Cover Page Exploration" />
+    <p>Full size image available <a href="../images/hawaii_quest_pink_envelope-fullsize.jpeg">here</a></p>
+  </div>
+</div>
+  
+#### Ad campaigns encouraging people to update their contact information. 
+Ads should be placed in places where Medicaid participants are most likely to see them, such as TV, Radio, bus ads, doctor's offices, and pharmacies. Navigator's should be leveraged to spread the word in their communities.
+#### Working with the National Change of Address (NCOA) database or MCOs to update recipient's addresses
+#### Utilizing web-based messaging services like WhatsApp for outreach
+Memers who run out of minutes may still connect to wifi, making web-based messaging a critical link to reach that population
 
